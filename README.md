@@ -1,0 +1,1 @@
+ホテルの空室状況を監視して空きが出たらmentionを送るtwitterBOT
